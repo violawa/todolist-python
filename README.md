@@ -35,7 +35,7 @@ python todolist.py
 ```
 
 ## User Interface
-<img src="https://github.com/violawa/ytmp3downloader/blob/87101dbb6b2125939391cd0c5bc43502aa11d625/GUI.png">
+<img src="<img src="https://github.com/violawa/ytmp3downloader/blob/87101dbb6b2125939391cd0c5bc43502aa11d625/GUI.png">">
 
 ## Usage
 

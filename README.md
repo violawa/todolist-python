@@ -16,7 +16,7 @@ This project is a simple To-Do List application built using Python and the Tkint
 
 - Python 3.x installed on your system.
 
-### Installation
+## Installation
 
 1. Clone this repository:
    ```sh

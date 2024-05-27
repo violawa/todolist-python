@@ -48,7 +48,8 @@ python todolist.py
 - `todolist.py`: The main script that contains the `ToDoApp` class which handles the GUI and functionality.
 ## License
 <P>https://github.com/violawa/todolist-python/blob/main/LICENSE</P>
-### `ToDoApp` Class
+
+## ToDoApp Class
 
 - **Attributes**:
   - `root`: The main window of the application.

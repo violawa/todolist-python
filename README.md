@@ -46,7 +46,8 @@ python todolist.py
 ## Code Structure
 
 - `todolist.py`: The main script that contains the `ToDoApp` class which handles the GUI and functionality.
-
+## License
+<P>https://github.com/violawa/todolist-python/blob/main/LICENSE</P>
 ### `ToDoApp` Class
 
 - **Attributes**:
